@@ -1,7 +1,7 @@
-class Demo
+class third
 {
     public static void main(String [] args) {
-        System.out.println("demo");
+        System.out.println("third");
         
     }
 }
